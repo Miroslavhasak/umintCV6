@@ -29,3 +29,9 @@ priebeh regulovanej veličiny (y) + žiadanej hodnoty (w) a 3. priebeh riadiacej
 simulácie použite príkazy „try/catch“.
 
 <img width="1812" height="1202" alt="image" src="https://github.com/user-attachments/assets/d090c41c-03f0-4dea-9d68-5e03584877bf" />
+
+<img width="1869" height="805" alt="image" src="https://github.com/user-attachments/assets/fdde9ebb-c986-42c3-843b-1e76b366cf64" />
+
+<img width="1394" height="645" alt="image" src="https://github.com/user-attachments/assets/93b1c3d7-531b-4354-b460-53e93291b4ff" />
+
+
